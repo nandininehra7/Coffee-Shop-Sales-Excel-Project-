@@ -49,7 +49,7 @@ The main objective of this project is to analyze retail coffee sales data and:
 
 | File Name       | Description                               |
 |----------------|-------------------------------------------|
-| `Dashboard.png` | Microsoft Excel Snapshot              |
+| `Dashboard.png` | Microsoft Excel Dashboard Snapshot              |
 | `KPI.pdf`       | Project Brief & KPI-based Business Goals |
 | `dataset.xlsx`  | Raw sales data used in analysis          |
 
