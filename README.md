@@ -1,10 +1,10 @@
-# ☕ Coffee Shop Sales Dashboard
+# ☕ Brew & Bite Business Monitor
 
 ![Coffee Shop Sales Dashboard](Dashboard.png)
 
 ## 📊 Overview
 
-This interactive Power BI dashboard analyzes sales performance of a coffee shop across various dimensions including time, location, product category, and order size. The purpose is to derive actionable insights from retail sales data to enhance decision-making and business outcomes.
+This interactive Microsoft Excel dashboard analyzes sales performance of a coffee shop across various dimensions including time, location, product category, and order size. The purpose is to derive actionable insights from retail sales data to enhance decision-making and business outcomes.
 
 ---
 
